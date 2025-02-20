@@ -12,6 +12,7 @@ Please complete the following steps **before** the interview. It shouldn’t tak
     - Price
     - Inventory
     - Image
+- You can store data using whatever technology/implementation you prefer, but it should persist while the server remains online
 - Create an API endpoint to fetch product data
 - Display the product data in product cards on page load
 
